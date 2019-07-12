@@ -13,7 +13,7 @@ class TabNavigationBar extends StatefulWidget{
 }
 
 class _TabNavigationbar extends State{
-  int _currentIndex = 1;
+  int _currentIndex = 0;
   List<Widget> pages = List<Widget>();
 
 
